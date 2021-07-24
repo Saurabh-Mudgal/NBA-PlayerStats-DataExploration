@@ -37,7 +37,7 @@ Like what you see? I am available for freelance and full-time work. Let's chat!
 * Alternate Email: smsaurabhmudgal@gmail.com
 * Location: Singapore
 <br>
-Credit: [Data Professor
+Credit: Data Professor
 <br>
 
 Give a ⭐️ if this project helped you! :)
