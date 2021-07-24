@@ -23,7 +23,7 @@ Currently the project has the following features:
 Simply open the respective ".pnyb" file to view the jupyter notebook with the code and trend visualisations.
 <br>
 The project is two part:
-  * Web Scraping
+  * [Web Scraping]("https://github.com/Saurabh-Mudgal/NBA-PlayerStats-DataExploration/blob/main/NBA_PlayerStats_WebScraping.ipynb")
   * Data Wrangling, Analysis & Visualisation
 <br>
 
