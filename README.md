@@ -24,7 +24,7 @@ Simply open the respective ".pnyb" file to view the jupyter notebook with the co
 <br>
 The project is two part:
   * [Web Scraping]("https://github.com/Saurabh-Mudgal/NBA-PlayerStats-DataExploration/blob/main/NBA_PlayerStats_WebScraping.ipynb")
-  * Data Wrangling, Analysis & Visualisation
+  * [Data Wrangling, Analysis & Visualisation](https://github.com/Saurabh-Mudgal/NBA-PlayerStats-DataExploration/blob/main/NBA_PlayerStats_DataAnalysis.ipynb)
 <br>
 
 ## 👤 Author
