@@ -6,11 +6,12 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mechanical-engineer-saurabh/)
 
 
-This project uses NBA player performance data from:
+This project uses NBA player performance data from: https://www.basketball-reference.com/leagues/NBA_2021_per_game.html
 
 ## ➕ Features
 
 Currently the project has the following features:
+  * Web Scraping
   * Data Wrangling
   * Data Exploration & Pattern Finding
   * Data Visualization/ Pattern Visualisation
@@ -19,9 +20,11 @@ Currently the project has the following features:
 
 ## 📱 Usage
 
-Simply open the ".pnyb" file to view the jupyter notebook with the code and trend visualisations.
+Simply open the respective ".pnyb" file to view the jupyter notebook with the code and trend visualisations.
 <br>
-
+The project is two part:
+  * Web Scraping
+  * Data Wrangling, Analysis & Visualisation
 <br>
 
 ## 👤 Author
