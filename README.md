@@ -6,7 +6,7 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mechanical-engineer-saurabh/)
 
 
-This project uses NBA player performance data from: https://www.basketball-reference.com/leagues/NBA_2021_per_game.html
+This project uses NBA player performance data from: https://www.basketball-reference.com/leagues/NBA_2020_per_game.html
 
 ## ➕ Features
 
